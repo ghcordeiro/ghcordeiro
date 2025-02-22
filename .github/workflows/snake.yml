@@ -1,6 +1,9 @@
 name: Generate Snake Animation
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 0 * * *" # Roda uma vez por dia à meia-noite UTC
   workflow_dispatch: # Permite rodar manualmente
@@ -21,7 +24,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Subir arquivos gerados
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: snake-animation
           path: dist

@@ -5,4 +5,4 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/ghcordeiro/ghcordeiro/blob/output/github-snake-dark.svg)
+![Snake animation](https://github.com/ghcordeiro/ghcordeiro/blob/dist/github-snake-dark.svg)

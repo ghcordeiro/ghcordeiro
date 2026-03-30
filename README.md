@@ -69,8 +69,8 @@ I work across enterprise backend platforms, modern web/mobile applications, auto
 
 ## GitHub Stats
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghcordeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghcordeiro&layout=compact&langs_count=7&theme=dracula)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghcordeiro&theme=dracula)
+![Top languages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghcordeiro&theme=dracula)
 
 ## Activity
 

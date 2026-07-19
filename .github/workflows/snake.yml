@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - main
-  schedule:
-    - cron: "0 0 * * *" # Roda uma vez por dia à meia-noite UTC
   workflow_dispatch: # Permite rodar manualmente
 
 jobs:
